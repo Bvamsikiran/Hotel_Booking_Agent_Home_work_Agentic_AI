@@ -1,0 +1,10 @@
+{
+  "description": "Streamline hotel bookings with an intuitive agent that helps users find, compare, and reserve accommodations effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
